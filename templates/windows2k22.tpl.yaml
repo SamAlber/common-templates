@@ -139,7 +139,9 @@ objects:
               synic: {}
               synictimer:
                 direct: {}
-              tlbflush: {}
+              tlbflush:
+                direct: {}
+                extended: {}
               frequencies: {}
               reenlightenment: {}
               ipi: {}
